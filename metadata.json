@@ -1,0 +1,6 @@
+{
+  "name": "YAHIA TV Download",
+  "description": "الموقع الرسمي لتحميل تطبيق YAHIA TV ومشغله YAHIA PLAYER للأندرويد بروابط مباشرة سهلة وسريعة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
